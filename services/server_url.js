@@ -1,1 +1,1 @@
-export const server_url='https://mp-server-1-5of0.onrender.com'
+export const server_url='https://mp-server-2-18gr.onrender.com'
